@@ -13,3 +13,13 @@ This paper compares ASR and human transcriptions of non-native speech to investi
 * [Bidirectional LSTM-RNN for Improving Automated Assessment Of Non-native Children’s Speech](https://pdfs.semanticscholar.org/c6f7/2739a51e0fccd6a08aeec667b948f57816ba.pdf), Yao Qian et al, *Interspeech 2017*:star::star:
 
 This paper investigated different neural network architectures for improving non-native children's speech recognition and the impact of the features extracted from the corresponding ASR output on the automated assessment of speaking proficiency. Experimental results show that bidirectional LSTM-RNN can outperform feed-forward DNN in ASR and the improved speech recognition can then boost the language proficiency assessment performance.
+* [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf)
+* [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017)
+* [Automatic scoring of non-native spontaneous speechin tests of spoken English]
+* [A three-stage approach to the automated scoring of spontaneousspoken responses]
+* [Exploring Content Features for Automated Speech Scoring](https://www.aclweb.org/anthology/N12-1011)
+* [Using Deep Neural Networks to Improve Proficiency Assessment for Children English Language Learners](https://pdfs.semanticscholar.org/0007/d959867b6ec42c388ed1e9c47ab724b87c8e.pdf)
+* [Self-Adaptive DNN for Improving Spoken Language Proficiency Assessment](http://oeft.de/su/pdf/interspeech2016c.pdf)
+* [Towards Automatic Assessment of Spontaneous Spoken English](https://pdfs.semanticscholar.org/c8ec/ce336f9d13e5e271c7de3ee56b8ac11e728f.pdf)
+* [USING BIDIRECTIONAL LSTM RECURRENT NEURAL NETWORKS TO LEARN HIGH-LEVEL ABSTRACTIONS OF SEQUENTIAL FEATURES FOR AUTOMATED SCORING OF NON-NATIVE SPONTANEOUS SPEECH](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404814)
+
