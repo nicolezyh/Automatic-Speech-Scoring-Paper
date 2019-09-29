@@ -23,4 +23,4 @@ This paper investigated different neural network architectures for improving non
 * [Towards Automatic Assessment of Spontaneous Spoken English](https://pdfs.semanticscholar.org/c8ec/ce336f9d13e5e271c7de3ee56b8ac11e728f.pdf)
 * [USING BIDIRECTIONAL LSTM RECURRENT NEURAL NETWORKS TO LEARN HIGH-LEVEL ABSTRACTIONS OF SEQUENTIAL FEATURES FOR AUTOMATED SCORING OF NON-NATIVE SPONTANEOUS SPEECH](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404814)
 * [CLUF: a Neural Model for Second Language Acquisition Modeling](http://sharedtask.duolingo.com/papers/xu.slam18.pdf)
-
+* [Automatic Assessment of the Speech of Young English Learners](https://www.aclweb.org/anthology/W14-1802)
