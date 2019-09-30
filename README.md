@@ -13,14 +13,13 @@ This paper compares ASR and human transcriptions of non-native speech to investi
 * [Bidirectional LSTM-RNN for Improving Automated Assessment Of Non-native Children’s Speech](https://pdfs.semanticscholar.org/c6f7/2739a51e0fccd6a08aeec667b948f57816ba.pdf), Yao Qian et al, *Interspeech 2017*:star::star:
 
 This paper investigated different neural network architectures for improving non-native children's speech recognition and the impact of the features extracted from the corresponding ASR output on the automated assessment of speaking proficiency. Experimental results show that bidirectional LSTM-RNN can outperform feed-forward DNN in ASR and the improved speech recognition can then boost the language proficiency assessment performance.
-* [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf)
-* [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017)
-* [Automatic scoring of non-native spontaneous speech in tests of spoken English](https://www.sciencedirect.com/science/article/pii/S0167639309000703)
-* [A three-stage approach to the automated scoring of spontaneous spoken responses](https://www.sciencedirect.com/science/article/pii/S0885230810000458)
-* [Exploring Content Features for Automated Speech Scoring](https://www.aclweb.org/anthology/N12-1011)
-* [Using Deep Neural Networks to Improve Proficiency Assessment for Children English Language Learners](https://pdfs.semanticscholar.org/0007/d959867b6ec42c388ed1e9c47ab724b87c8e.pdf)
-* [Self-Adaptive DNN for Improving Spoken Language Proficiency Assessment](http://oeft.de/su/pdf/interspeech2016c.pdf)
-* [Towards Automatic Assessment of Spontaneous Spoken English](https://pdfs.semanticscholar.org/c8ec/ce336f9d13e5e271c7de3ee56b8ac11e728f.pdf)
-* [USING BIDIRECTIONAL LSTM RECURRENT NEURAL NETWORKS TO LEARN HIGH-LEVEL ABSTRACTIONS OF SEQUENTIAL FEATURES FOR AUTOMATED SCORING OF NON-NATIVE SPONTANEOUS SPEECH](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404814)
-* [CLUF: a Neural Model for Second Language Acquisition Modeling](http://sharedtask.duolingo.com/papers/xu.slam18.pdf)
-* [Automatic Assessment of the Speech of Young English Learners](https://www.aclweb.org/anthology/W14-1802)
+* [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf), *2016*
+* [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017), *2017
+* [Automatic scoring of non-native spontaneous speech in tests of spoken English](https://www.sciencedirect.com/science/article/pii/S0167639309000703), *2009*
+* [A three-stage approach to the automated scoring of spontaneous spoken responses](https://www.sciencedirect.com/science/article/pii/S0885230810000458), *2010*
+* [Exploring Content Features for Automated Speech Scoring](https://www.aclweb.org/anthology/N12-1011), *2012*
+* [Using Deep Neural Networks to Improve Proficiency Assessment for Children English Language Learners](https://pdfs.semanticscholar.org/0007/d959867b6ec42c388ed1e9c47ab724b87c8e.pdf), *Interspeech 2014*
+* [Self-Adaptive DNN for Improving Spoken Language Proficiency Assessment](http://oeft.de/su/pdf/interspeech2016c.pdf), *Interspeech 2016*
+* [Towards Automatic Assessment of Spontaneous Spoken English](https://pdfs.semanticscholar.org/c8ec/ce336f9d13e5e271c7de3ee56b8ac11e728f.pdf), *2017*
+* [USING BIDIRECTIONAL LSTM RECURRENT NEURAL NETWORKS TO LEARN HIGH-LEVEL ABSTRACTIONS OF SEQUENTIAL FEATURES FOR AUTOMATED SCORING OF NON-NATIVE SPONTANEOUS SPEECH](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404814) *ASRU 2015*
+* [Automatic Assessment of the Speech of Young English Learners](https://www.aclweb.org/anthology/W14-1802) *2014*
