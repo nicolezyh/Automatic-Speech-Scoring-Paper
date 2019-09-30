@@ -16,7 +16,7 @@ This paper investigated different neural network architectures for improving non
 * [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf)
 * [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017)
 * [Automatic scoring of non-native spontaneous speech in tests of spoken English](https://www.sciencedirect.com/science/article/pii/S0167639309000703)
-* [A three-stage approach to the automated scoring of spontaneous spoken responses]
+* [A three-stage approach to the automated scoring of spontaneous spoken responses](https://www.sciencedirect.com/science/article/pii/S0885230810000458)
 * [Exploring Content Features for Automated Speech Scoring](https://www.aclweb.org/anthology/N12-1011)
 * [Using Deep Neural Networks to Improve Proficiency Assessment for Children English Language Learners](https://pdfs.semanticscholar.org/0007/d959867b6ec42c388ed1e9c47ab724b87c8e.pdf)
 * [Self-Adaptive DNN for Improving Spoken Language Proficiency Assessment](http://oeft.de/su/pdf/interspeech2016c.pdf)
