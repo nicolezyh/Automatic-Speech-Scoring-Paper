@@ -14,7 +14,7 @@ This paper compares ASR and human transcriptions of non-native speech to investi
 
 This paper investigated different neural network architectures for improving non-native children's speech recognition and the impact of the features extracted from the corresponding ASR output on the automated assessment of speaking proficiency. Experimental results show that bidirectional LSTM-RNN can outperform feed-forward DNN in ASR and the improved speech recognition can then boost the language proficiency assessment performance.
 * [Automatic Text Scoring Using Neural Networks](https://arxiv.org/pdf/1606.04289.pdf), *2016*
-* [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017), *2017
+* [Investigating neural architectures for short answer scoring](https://www.aclweb.org/anthology/W17-5017), *2017*
 * [Automatic scoring of non-native spontaneous speech in tests of spoken English](https://www.sciencedirect.com/science/article/pii/S0167639309000703), *2009*
 * [A three-stage approach to the automated scoring of spontaneous spoken responses](https://www.sciencedirect.com/science/article/pii/S0885230810000458), *2010*
 * [Exploring Content Features for Automated Speech Scoring](https://www.aclweb.org/anthology/N12-1011), *2012*
