@@ -23,3 +23,5 @@ This paper investigated different neural network architectures for improving non
 * [Towards Automatic Assessment of Spontaneous Spoken English](https://pdfs.semanticscholar.org/c8ec/ce336f9d13e5e271c7de3ee56b8ac11e728f.pdf), *2017*
 * [USING BIDIRECTIONAL LSTM RECURRENT NEURAL NETWORKS TO LEARN HIGH-LEVEL ABSTRACTIONS OF SEQUENTIAL FEATURES FOR AUTOMATED SCORING OF NON-NATIVE SPONTANEOUS SPEECH](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7404814) *ASRU 2015*
 * [Automatic Assessment of the Speech of Young English Learners](https://www.aclweb.org/anthology/W14-1802), Jian Cheng et al, *ACL 2014*
+* [Validating automated speaking tests](http://www.tassopartners.com/wp1/wp-content/uploads/2014/02/JB-AvM-JCh-LTJ-2010.pdf), Jared Bernstein et al, *2010*
+
